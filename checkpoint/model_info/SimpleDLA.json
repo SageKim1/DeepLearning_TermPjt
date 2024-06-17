@@ -1,0 +1,904 @@
+{
+    "best": [
+        94.49,
+        {
+            "start_time": "240609_110229",
+            "current_time": "240609_132454",
+            "lr_rate": 0.1,
+            "train_batch": 64,
+            "test_batch": 100,
+            "optim_type": "SGD",
+            "lr_scheduler": "LambdaLR",
+            "current_epoch(+1)": 96,
+            "total_epoch_setting": 100
+        },
+        "SimpleDLA_time240609_110229"
+    ],
+    "records": [
+        [
+            94.18,
+            {
+                "start_time": "240608_185433",
+                "current_time": "240608_225044",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 95,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_185433"
+        ],
+        [
+            94.03,
+            {
+                "start_time": "240608_185346",
+                "current_time": "240608_222234",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 85,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_185346"
+        ],
+        [
+            93.82,
+            {
+                "start_time": "240616_202833",
+                "current_time": "240617_002300",
+                "lr_rate": 0.1,
+                "train_batch": 32,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 98,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240616_202833"
+        ],
+        [
+            93.81,
+            {
+                "start_time": "240609_110205",
+                "current_time": "240609_132120",
+                "lr_rate": 0.1,
+                "train_batch": 256,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 99,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_110205"
+        ],
+        [
+            93.68,
+            {
+                "start_time": "240609_110215",
+                "current_time": "240609_130440",
+                "lr_rate": 0.1,
+                "train_batch": 512,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 93,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_110215"
+        ],
+        [
+            93.59,
+            {
+                "start_time": "240609_110152",
+                "current_time": "240609_132838",
+                "lr_rate": 0.1,
+                "train_batch": 64,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 96,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_110152"
+        ],
+        [
+            93.56,
+            {
+                "start_time": "240616_202457",
+                "current_time": "240616_234428",
+                "lr_rate": 0.1,
+                "train_batch": 32,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 99,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240616_202457"
+        ],
+        [
+            93.56,
+            {
+                "start_time": "240608_185300",
+                "current_time": "240608_222343",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "ExponentialLR",
+                "current_epoch(+1)": 86,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_185300"
+        ],
+        [
+            93.44,
+            {
+                "start_time": "240609_143235",
+                "current_time": "240609_184918",
+                "lr_rate": 0.1,
+                "train_batch": 64,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 97,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143235"
+        ],
+        [
+            93.33,
+            {
+                "start_time": "240616_202804",
+                "current_time": "240617_003804",
+                "lr_rate": 0.1,
+                "train_batch": 32,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 98,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240616_202804"
+        ],
+        [
+            93.26,
+            {
+                "start_time": "240616_202910",
+                "current_time": "240617_001235",
+                "lr_rate": 0.1,
+                "train_batch": 32,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 92,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240616_202910"
+        ],
+        [
+            93.26,
+            {
+                "start_time": "240609_110238",
+                "current_time": "240609_130640",
+                "lr_rate": 0.1,
+                "train_batch": 256,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 88,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_110238"
+        ],
+        [
+            93.15,
+            {
+                "start_time": "240609_143309",
+                "current_time": "240609_181544",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 95,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143309"
+        ],
+        [
+            92.92,
+            {
+                "start_time": "240609_110400",
+                "current_time": "240609_133211",
+                "lr_rate": 0.1,
+                "train_batch": 64,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 89,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_110400"
+        ],
+        [
+            92.86,
+            {
+                "start_time": "240609_143326",
+                "current_time": "240609_174210",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 78,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143326"
+        ],
+        [
+            92.85,
+            {
+                "start_time": "240609_143334",
+                "current_time": "240609_175315",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 82,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143334"
+        ],
+        [
+            92.85,
+            {
+                "start_time": "240608_184410",
+                "current_time": "240608_223522",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 96,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_184410"
+        ],
+        [
+            92.8,
+            {
+                "start_time": "240609_110247",
+                "current_time": "240609_124753",
+                "lr_rate": 0.1,
+                "train_batch": 512,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 82,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_110247"
+        ],
+        [
+            92.68,
+            {
+                "start_time": "240608_234356",
+                "current_time": "240609_022004",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 76,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234356"
+        ],
+        [
+            92.25,
+            {
+                "start_time": "240609_143254",
+                "current_time": "240609_183044",
+                "lr_rate": 0.1,
+                "train_batch": 64,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 85,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143254"
+        ],
+        [
+            92.24,
+            {
+                "start_time": "240609_110411",
+                "current_time": "240609_132400",
+                "lr_rate": 0.1,
+                "train_batch": 256,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 99,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_110411"
+        ],
+        [
+            92.21,
+            {
+                "start_time": "240616_204319",
+                "current_time": "240616_211656",
+                "lr_rate": 0.1,
+                "train_batch": 512,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 73,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240616_204319"
+        ],
+        [
+            92.01,
+            {
+                "start_time": "240616_202304",
+                "current_time": "240616_231542",
+                "lr_rate": 0.1,
+                "train_batch": 256,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 99,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240616_202304"
+        ],
+        [
+            92.0,
+            {
+                "start_time": "240608_234405",
+                "current_time": "240609_023417",
+                "lr_rate": 0.1,
+                "train_batch": 256,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 91,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234405"
+        ],
+        [
+            91.66,
+            {
+                "start_time": "240608_234500",
+                "current_time": "240609_024828",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 96,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234500"
+        ],
+        [
+            91.47,
+            {
+                "start_time": "240609_110424",
+                "current_time": "240609_131335",
+                "lr_rate": 0.1,
+                "train_batch": 512,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 95,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_110424"
+        ],
+        [
+            91.4,
+            {
+                "start_time": "240609_143350",
+                "current_time": "240609_172025",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 66,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143350"
+        ],
+        [
+            91.11,
+            {
+                "start_time": "240609_143317",
+                "current_time": "240609_181228",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "AdamW",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 91,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143317"
+        ],
+        [
+            91.11,
+            {
+                "start_time": "240608_234601",
+                "current_time": "240609_023044",
+                "lr_rate": 0.1,
+                "train_batch": 256,
+                "test_batch": 100,
+                "optim_type": "AdamW",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 86,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234601"
+        ],
+        [
+            90.94,
+            {
+                "start_time": "240608_234450",
+                "current_time": "240609_023810",
+                "lr_rate": 0.1,
+                "train_batch": 512,
+                "test_batch": 100,
+                "optim_type": "AdamW",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 100,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234450"
+        ],
+        [
+            90.86,
+            {
+                "start_time": "240608_234436",
+                "current_time": "240609_024301",
+                "lr_rate": 0.1,
+                "train_batch": 256,
+                "test_batch": 100,
+                "optim_type": "AdamW",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 99,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234436"
+        ],
+        [
+            90.76,
+            {
+                "start_time": "240608_184349",
+                "current_time": "240608_222043",
+                "lr_rate": 0.1,
+                "train_batch": 256,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 99,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_184349"
+        ],
+        [
+            90.65,
+            {
+                "start_time": "240608_184352",
+                "current_time": "240608_221234",
+                "lr_rate": 0.1,
+                "train_batch": 512,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 100,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_184352"
+        ],
+        [
+            90.62,
+            {
+                "start_time": "240608_234415",
+                "current_time": "240609_014134",
+                "lr_rate": 0.1,
+                "train_batch": 512,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 66,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234415"
+        ],
+        [
+            90.37,
+            {
+                "start_time": "240608_234510",
+                "current_time": "240609_022035",
+                "lr_rate": 0.1,
+                "train_batch": 256,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 84,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234510"
+        ],
+        [
+            90.25,
+            {
+                "start_time": "240608_185107",
+                "current_time": "240608_221018",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "OneCycleLR",
+                "current_epoch(+1)": 83,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_185107"
+        ],
+        [
+            90.2,
+            {
+                "start_time": "240608_184358",
+                "current_time": "240608_221746",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "AdamW",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 89,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_184358"
+        ],
+        [
+            90.19,
+            {
+                "start_time": "240608_234425",
+                "current_time": "240609_025337",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "AdamW",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 97,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234425"
+        ],
+        [
+            90.1,
+            {
+                "start_time": "240608_234548",
+                "current_time": "240609_025411",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "AdamW",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 96,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234548"
+        ],
+        [
+            90.02,
+            {
+                "start_time": "240609_143342",
+                "current_time": "240609_172305",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "AdamW",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 68,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143342"
+        ],
+        [
+            89.51,
+            {
+                "start_time": "240608_234613",
+                "current_time": "240609_024331",
+                "lr_rate": 0.1,
+                "train_batch": 512,
+                "test_batch": 100,
+                "optim_type": "AdamW",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 98,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234613"
+        ],
+        [
+            89.0,
+            {
+                "start_time": "240608_184340",
+                "current_time": "240608_222949",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 99,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_184340"
+        ],
+        [
+            88.9,
+            {
+                "start_time": "240609_143245",
+                "current_time": "240609_182215",
+                "lr_rate": 0.1,
+                "train_batch": 64,
+                "test_batch": 100,
+                "optim_type": "AdamW",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 83,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143245"
+        ],
+        [
+            88.4,
+            {
+                "start_time": "240609_143624",
+                "current_time": "240609_182409",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adamax",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 89,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143624"
+        ],
+        [
+            88.0,
+            {
+                "start_time": "240608_234536",
+                "current_time": "240609_024037",
+                "lr_rate": 0.1,
+                "train_batch": 512,
+                "test_batch": 100,
+                "optim_type": "Adadelta",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 97,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_234536"
+        ],
+        [
+            87.9,
+            {
+                "start_time": "240616_201827",
+                "current_time": "240616_231512",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adagrad",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 98,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240616_201827"
+        ],
+        [
+            86.16,
+            {
+                "start_time": "240609_143549",
+                "current_time": "240609_183444",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adamax",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 100,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143549"
+        ],
+        [
+            85.21,
+            {
+                "start_time": "240608_184407",
+                "current_time": "240608_222851",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adagrad",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 96,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_184407"
+        ],
+        [
+            85.14,
+            {
+                "start_time": "240608_185201",
+                "current_time": "240608_210621",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "StepLR",
+                "current_epoch(+1)": 55,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_185201"
+        ],
+        [
+            85.12,
+            {
+                "start_time": "240608_184346",
+                "current_time": "240608_224008",
+                "lr_rate": 0.1,
+                "train_batch": 64,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 95,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_184346"
+        ],
+        [
+            84.47,
+            {
+                "start_time": "240609_143500",
+                "current_time": "240609_185855",
+                "lr_rate": 0.1,
+                "train_batch": 64,
+                "test_batch": 100,
+                "optim_type": "Adamax",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 94,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143500"
+        ],
+        [
+            82.88,
+            {
+                "start_time": "240609_143538",
+                "current_time": "240609_183339",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adam",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 99,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143538"
+        ],
+        [
+            79.13,
+            {
+                "start_time": "240609_143611",
+                "current_time": "240609_184509",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adam",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 100,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143611"
+        ],
+        [
+            78.3,
+            {
+                "start_time": "240608_184343",
+                "current_time": "240608_225616",
+                "lr_rate": 0.1,
+                "train_batch": 32,
+                "test_batch": 100,
+                "optim_type": "SGD",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 95,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_184343"
+        ],
+        [
+            78.16,
+            {
+                "start_time": "240616_201944",
+                "current_time": "240616_231934",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "RMSprop",
+                "lr_scheduler": "MultiStepLR",
+                "current_epoch(+1)": 97,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240616_201944"
+        ],
+        [
+            76.84,
+            {
+                "start_time": "240609_143449",
+                "current_time": "240609_190500",
+                "lr_rate": 0.1,
+                "train_batch": 64,
+                "test_batch": 100,
+                "optim_type": "Adam",
+                "lr_scheduler": "LambdaLR",
+                "current_epoch(+1)": 99,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240609_143449"
+        ],
+        [
+            55.59,
+            {
+                "start_time": "240616_202736",
+                "current_time": "240616_225629",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adamax",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 81,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240616_202736"
+        ],
+        [
+            28.24,
+            {
+                "start_time": "240608_184354",
+                "current_time": "240608_223824",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "Adam",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 98,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_184354"
+        ],
+        [
+            10.0,
+            {
+                "start_time": "240608_184401",
+                "current_time": "240608_184627",
+                "lr_rate": 0.1,
+                "train_batch": 128,
+                "test_batch": 100,
+                "optim_type": "RMSprop",
+                "lr_scheduler": "CosineAnnealingLR",
+                "current_epoch(+1)": 1,
+                "total_epoch_setting": 100
+            },
+            "SimpleDLA_time240608_184401"
+        ]
+    ]
+}
