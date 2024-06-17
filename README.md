@@ -1,3 +1,7 @@
+# KNU_DeepLearning_Pjt
+This project was cloned from the [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) and modified, based on the guidelines from [colab](https://github.com/heechul-knu/colab).
+
+---
 # Train CIFAR10 with PyTorch
 
 I'm playing with [PyTorch](http://pytorch.org/) on the CIFAR10 dataset.
