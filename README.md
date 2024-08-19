@@ -1,5 +1,5 @@
-# KNU_DeepLearning_TermPjt
-This project was cloned from the [kuangliu, pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) and modified, based on the guidelines from [heechul-knu, colab](https://github.com/heechul-knu/colab).
+# DeepLearning_TermPjt
+This project was cloned from the [kuangliu, pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) and modified.
 
 ---
 # Train CIFAR10 with PyTorch
